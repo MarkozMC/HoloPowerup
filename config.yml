@@ -1,0 +1,7 @@
+# @MarkoCZ 
+# Holographic Powerup(c)
+#
+powerup-chance: 20
+effect-time: 60
+BlackList:
+ - 'world_nether'

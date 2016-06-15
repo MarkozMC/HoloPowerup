@@ -1,0 +1,7 @@
+name: Holographic-Powerup
+main: CZ.MarkoCZ.Holo.A
+version: 1.0.7
+author: MarkoCZ
+commands:
+  hp:
+  HolographicPower:
